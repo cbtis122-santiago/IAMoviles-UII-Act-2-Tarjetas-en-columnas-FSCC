@@ -4,8 +4,8 @@ Quiero hacer una lista de tarjetas (Cards) basándome en una imagen de referenci
 
 El código debe ser nivel principiante, pero bien organizado con sus Widgets separados para que se vea limpio. ¿Me podrías pasar el código del main.dart y explicarme cómo acomodaste los elementos para que se parezcan a la foto?
 
+<img width="413" height="559" alt="image" src="https://github.com/user-attachments/assets/b5a9ea15-2ad2-4600-911d-5edadf5545e8" />
 
-<img width="419" height="374" alt="image" src="https://github.com/user-attachments/assets/0d5cc38c-6a66-48c2-be17-1fa27fb738ff" />
 <img width="362" height="622" alt="image" src="https://github.com/user-attachments/assets/340a813a-b690-4523-bf71-ee01e0c15d21" />
 
 
